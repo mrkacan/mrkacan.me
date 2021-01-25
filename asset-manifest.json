@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mrkacan.me/static/css/main.f7de34ae.chunk.css",
-    "main.js": "/mrkacan.me/static/js/main.3b5cd4ce.chunk.js",
-    "main.js.map": "/mrkacan.me/static/js/main.3b5cd4ce.chunk.js.map",
+    "main.js": "/mrkacan.me/static/js/main.88faaf28.chunk.js",
+    "main.js.map": "/mrkacan.me/static/js/main.88faaf28.chunk.js.map",
     "runtime-main.js": "/mrkacan.me/static/js/runtime-main.715cd691.js",
     "runtime-main.js.map": "/mrkacan.me/static/js/runtime-main.715cd691.js.map",
     "static/js/2.7b454bb6.chunk.js": "/mrkacan.me/static/js/2.7b454bb6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.715cd691.js",
     "static/js/2.7b454bb6.chunk.js",
     "static/css/main.f7de34ae.chunk.css",
-    "static/js/main.3b5cd4ce.chunk.js"
+    "static/js/main.88faaf28.chunk.js"
   ]
 }
