@@ -2,7 +2,7 @@
   "name": "emrekacan.mev2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrkacan.github.io/emrekacan.mev2",
+  "homepage": "https://mrkacan.github.io/mrkacan.me",
   "dependencies": {
     "@craco/craco": "^6.0.0",
     "@tailwindcss/postcss7-compat": "^2.0.2",
