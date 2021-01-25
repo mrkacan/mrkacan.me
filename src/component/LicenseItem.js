@@ -42,7 +42,7 @@ const LicenseItem = ({
       <div
         onClick={() => window.open(licenseLink)}
         onKeyPress={() => window.open(licenseLink)}
-        className="flex text-sm font-normal leading-5 text-gray-600 cursor-pointer"
+        className="flex text-sm font-normal leading-5 text-gray-600 cursor-pointer hover:text-black"
       >
         See credential
       </div>
