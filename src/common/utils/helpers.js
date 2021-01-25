@@ -21,3 +21,25 @@ export const getFormattedDateRange = ({
 
   return `${formattedStartDate} - ${formattedEndDate}`;
 };
+
+export const getFormattedIssuedDate = ({
+  issuedDate,
+  expireDate,
+}) => {
+  let formattedIssuedDate = moment(issuedDate, 'YYYY-MM-DD');
+  let formattedExpireDate = moment(expireDate, 'YYYY-MM-DD');
+
+  if (formattedExpireDate.isValid()) {
+    formattedExpireDate = moment(formattedExpireDate).format('MMM YYYY');
+  } else {
+    formattedExpireDate = 'No Expiration Date';
+  }
+
+  if (formattedIssuedDate.isValid()) {
+    formattedIssuedDate = moment(formattedIssuedDate).format('MMM YYYY');
+  } else {
+    formattedIssuedDate = '';
+  }
+
+  return `${formattedIssuedDate} - ${formattedExpireDate}`;
+};

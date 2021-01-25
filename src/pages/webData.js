@@ -3,6 +3,7 @@ import React from 'react';
 import BETTERHALF_AI from '../assets/images/companyIcons/betterhalf.png';
 import CBOX_PROJECTS from '../assets/images/companyIcons/cboxprojects.png';
 import CELAL_BAYAR_UNIVERSITY from '../assets/images/schoolIcons/celalbayarUniversity.png';
+import UDEMY from '../assets/images/licenseIcons/udemy.jpeg';
 
 const experience = {
   key: 'experience',
@@ -74,7 +75,6 @@ const PAGES_DATA = {
     key: licenses.key,
     title: 'Licenses & certifications',
     link: licenses.link,
-    isPending: true,
     svg: (
       <svg
         className="w-9 group-hover:text-white transition-text  duration-200"
@@ -170,6 +170,27 @@ const userExperienceData = [
     companyIcon: CBOX_PROJECTS,
     startedDate: moment('2019-01-25', 'YYYY-MM-DD'),
     endDate: moment('2021-01-25', 'YYYY-MM-DD'),
+  },
+];
+
+const licenseData = [
+  {
+    id: 1,
+    name: 'React Native ile iOS ve Android Uygulama Geliştirme ve Redux',
+    issueOrganization: 'Udemy',
+    organizationIcon: UDEMY,
+    issuedDate: moment('2017-01-28', 'YYYY-MM-DD'),
+    expireDate: null,
+    licenseLink: 'https://www.udemy.com/certificate/UC-YKAF234M/',
+  },
+  {
+    id: 2,
+    name: 'Meteor and React for Realtime Apps',
+    issueOrganization: 'Udemy',
+    organizationIcon: UDEMY,
+    issuedDate: moment('2018-01-28', 'YYYY-MM-DD'),
+    expireDate: null,
+    licenseLink: 'https://www.udemy.com/certificate/UC-EWWERLBC/',
   },
 ];
 
@@ -304,4 +325,5 @@ export {
   userExperienceData,
   userEducationData,
   userSkillsData,
+  licenseData,
 };
