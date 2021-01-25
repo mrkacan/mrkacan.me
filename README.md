@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 - Completed Pages: 
-    - Home, Experience, Education, Skills & Endorsements.
+    - Home, Experience, Education, Skills & Endorsements, Licenses & certifications.
 - react-router with transition effect.
 - Page elements animation.
 - Eslint and prettier configuration.
@@ -22,6 +22,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] Adding default props of components.
 - [ ] tabIndex attributes for screen readers.
 - [ ] Transform react-if to jsx-control-statements.
-- [ ] Complete Licenses & certifications, Accomplishments and Download CV.
+- [ ] Complete Accomplishments and Download CV.
 
 
