@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+html, body {
+    position: fixed;
+    width: 100%;
+}
+
+.ek-me-container {
+    background-color: rgba(255, 255, 255, .90);
+    height: calc(var(--vh, 1vh) * 85) !important;
+    min-height: calc(var(--vh, 1vh) * 85) !important;
+    max-height: calc(var(--vh, 1vh) * 85) !important;
+}
+
+.ek-me-general-wrapper {
+    height: 100vh !important; /* Fallback for browsers that do not support Custom Properties */
+    min-height: calc(var(--vh, 1vh) * 100) !important;
+    max-height: calc(var(--vh, 1vh) * 100) !important;
+}
+
+.ek-me-top-title {
+    height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+    min-height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+    max-height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+}
+.ek-me-top-description {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+    min-height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+    max-height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+}
+
+.ek-me-bottom {
+    height: calc(var(--vh, 1vh) * 85 * 0.6) !important;
+    min-height: calc(var(--vh, 1vh) * 85 * 0.6) !important;
+    max-height: calc(var(--vh, 1vh) * 85 * 0.6) !important;
+}
+
+.ek-me-inner-content-title {
+    height: calc(var(--vh, 1vh) * 85 * 0.08) !important;
+    min-height: calc(var(--vh, 1vh) * 85 * 0.08) !important;
+    max-height: calc(var(--vh, 1vh) * 85 * 0.08) !important;
+}
+
+.ek-me-inner-content-with-title {
+    height: calc(var(--vh, 1vh) * 85 * 0.92) !important;
+    min-height: calc(var(--vh, 1vh) * 85 * 0.92) !important;
+    max-height: calc(var(--vh, 1vh) * 85 * 0.92) !important;
+    padding: 10px;
+}
+
+@media (max-width: 640px) {
+    .ek-me-top-title {
+        height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+        min-height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+        max-height: calc(var(--vh, 1vh) * 85 * 0.2) !important;
+    }
+    .ek-me-top-description {
+        padding-left: 10px;
+        height: calc(var(--vh, 1vh) * 85 * 0.25) !important;
+        min-height: calc(var(--vh, 1vh) * 85 * 0.25) !important;
+        max-height: calc(var(--vh, 1vh) * 85 * 0.25) !important;
+    }
+
+    .ek-me-bottom {
+        height: calc(var(--vh, 1vh) * 85 * 0.55) !important;
+        min-height: calc(var(--vh, 1vh) * 85 * 0.55) !important;
+        max-height: calc(var(--vh, 1vh) * 85 * 0.55) !important;
+    }
+}
+
+.ek-me-left-divider {
+    width: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 70%;
+    background-color: rgba(82, 182, 230, 1);
+}
+
+.ek-me-menu-item {
+}
+
+
+.ek-me-other-content-wrapper {
+}
+
+.tc {
+    background-color: #e3e3e3;
+    margin: 5px;
+}
+
+.ek-me-description-text{
+
+}
+
+.ek-me-full-screen-content {
+    position: absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+
+.ek-me-bullet-separator::before {
+    content: "\00B7";
+    margin: 0 5px;
+}
