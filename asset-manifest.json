@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mrkacan.me/static/css/main.8ca5629a.chunk.css",
-    "main.js": "/mrkacan.me/static/js/main.1f3fbbf9.chunk.js",
-    "main.js.map": "/mrkacan.me/static/js/main.1f3fbbf9.chunk.js.map",
+    "main.css": "/mrkacan.me/static/css/main.f7de34ae.chunk.css",
+    "main.js": "/mrkacan.me/static/js/main.3b5cd4ce.chunk.js",
+    "main.js.map": "/mrkacan.me/static/js/main.3b5cd4ce.chunk.js.map",
     "runtime-main.js": "/mrkacan.me/static/js/runtime-main.715cd691.js",
     "runtime-main.js.map": "/mrkacan.me/static/js/runtime-main.715cd691.js.map",
-    "static/js/2.de1d6295.chunk.js": "/mrkacan.me/static/js/2.de1d6295.chunk.js",
-    "static/js/2.de1d6295.chunk.js.map": "/mrkacan.me/static/js/2.de1d6295.chunk.js.map",
+    "static/js/2.7b454bb6.chunk.js": "/mrkacan.me/static/js/2.7b454bb6.chunk.js",
+    "static/js/2.7b454bb6.chunk.js.map": "/mrkacan.me/static/js/2.7b454bb6.chunk.js.map",
     "index.html": "/mrkacan.me/index.html",
-    "static/css/main.8ca5629a.chunk.css.map": "/mrkacan.me/static/css/main.8ca5629a.chunk.css.map",
-    "static/js/2.de1d6295.chunk.js.LICENSE.txt": "/mrkacan.me/static/js/2.de1d6295.chunk.js.LICENSE.txt",
+    "static/css/main.f7de34ae.chunk.css.map": "/mrkacan.me/static/css/main.f7de34ae.chunk.css.map",
+    "static/js/2.7b454bb6.chunk.js.LICENSE.txt": "/mrkacan.me/static/js/2.7b454bb6.chunk.js.LICENSE.txt",
     "static/media/cboxprojects.23110684.png": "/mrkacan.me/static/media/cboxprojects.23110684.png",
     "static/media/celalbayarUniversity.229112f2.png": "/mrkacan.me/static/media/celalbayarUniversity.229112f2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.715cd691.js",
-    "static/js/2.de1d6295.chunk.js",
-    "static/css/main.8ca5629a.chunk.css",
-    "static/js/main.1f3fbbf9.chunk.js"
+    "static/js/2.7b454bb6.chunk.js",
+    "static/css/main.f7de34ae.chunk.css",
+    "static/js/main.3b5cd4ce.chunk.js"
   ]
 }
