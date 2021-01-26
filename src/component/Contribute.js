@@ -1,10 +1,11 @@
 import React from 'react';
+import { CONTRIBUTE_URL } from '../pages/webData';
 
 const Contribute = () => (
   // eslint-disable-next-line jsx-a11y/no-static-element-interactions
   <div
-    onClick={() => window.open('https://mrkacan.github.io/mrkacan.me/')}
-    onKeyPress={() => window.open('https://mrkacan.github.io/mrkacan.me/')}
+    onClick={() => window.open(CONTRIBUTE_URL)}
+    onKeyPress={() => window.open(CONTRIBUTE_URL)}
     className="absolute right-3 bottom-3 flex justify-start items-center opacity-30 hover:opacity-100 cursor-pointer transition transition-opacity duration-500 ease-in-out"
   >
     <svg className="w-4 md:w-5 h-4 md:h-5 mr-1" width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
