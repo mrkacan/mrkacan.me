@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import moment from 'moment';
 import { getFormattedIssuedDate } from '../common/utils/helpers';
+import Image from './Image';
 
 const LicenseItem = ({
   name,
@@ -12,7 +13,7 @@ const LicenseItem = ({
   licenseLink,
 }) => (
   <div className="flex justify-start items-start border-b border-gray-300 p-4">
-    <img
+    <Image
       className="object-contain w-12 mr-2"
       alt={`${name} logo`}
       src={organizationIcon}
