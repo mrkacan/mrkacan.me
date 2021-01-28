@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mrkacan.me/static/css/main.c13d2ad3.chunk.css",
+    "main.css": "/mrkacan.me/static/css/main.5ef6ad17.chunk.css",
     "main.js": "/mrkacan.me/static/js/main.7d387f34.chunk.js",
     "main.js.map": "/mrkacan.me/static/js/main.7d387f34.chunk.js.map",
     "runtime-main.js": "/mrkacan.me/static/js/runtime-main.715cd691.js",
@@ -8,7 +8,7 @@
     "static/js/2.09d62c7c.chunk.js": "/mrkacan.me/static/js/2.09d62c7c.chunk.js",
     "static/js/2.09d62c7c.chunk.js.map": "/mrkacan.me/static/js/2.09d62c7c.chunk.js.map",
     "index.html": "/mrkacan.me/index.html",
-    "static/css/main.c13d2ad3.chunk.css.map": "/mrkacan.me/static/css/main.c13d2ad3.chunk.css.map",
+    "static/css/main.5ef6ad17.chunk.css.map": "/mrkacan.me/static/css/main.5ef6ad17.chunk.css.map",
     "static/js/2.09d62c7c.chunk.js.LICENSE.txt": "/mrkacan.me/static/js/2.09d62c7c.chunk.js.LICENSE.txt",
     "static/media/cboxprojects.23110684.png": "/mrkacan.me/static/media/cboxprojects.23110684.png",
     "static/media/celalbayarUniversity.229112f2.png": "/mrkacan.me/static/media/celalbayarUniversity.229112f2.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.715cd691.js",
     "static/js/2.09d62c7c.chunk.js",
-    "static/css/main.c13d2ad3.chunk.css",
+    "static/css/main.5ef6ad17.chunk.css",
     "static/js/main.7d387f34.chunk.js"
   ]
 }
