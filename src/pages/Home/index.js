@@ -79,7 +79,16 @@ const Index = () => {
             <div
               className="ek-me-top-title flex justify-start content-center"
             >
-              <div className="flex justify-start items-center">
+              <div className="relative flex justify-start items-center w-full">
+                <div className="
+                absolute
+                right-2
+                bottom-2
+                p-2
+                m-1"
+                >
+                  {/* <SocialIcon /> */}
+                </div>
                 <motion.div
                   className="ek-me-left-divider"
                   {...leftDividerConfig}

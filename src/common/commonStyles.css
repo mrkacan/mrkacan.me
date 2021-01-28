@@ -122,3 +122,8 @@ html, body {
     content: "\00B7";
     margin: 0 5px;
 }
+
+.social-icons {
+    background-color: white;
+    z-index: 1;
+}

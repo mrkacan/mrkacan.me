@@ -4,6 +4,15 @@ import BETTERHALF_AI from '../assets/images/companyIcons/betterhalf.png';
 import CBOX_PROJECTS from '../assets/images/companyIcons/cboxprojects.png';
 import CELAL_BAYAR_UNIVERSITY from '../assets/images/schoolIcons/celalbayarUniversity.png';
 import UDEMY from '../assets/images/licenseIcons/udemy.jpeg';
+import {
+  FACEBOOK,
+  GMAIL,
+  LINKEDIN,
+  GITHUB,
+  TWITTER,
+} from '../assets/images';
+
+// TODO: All of images are will move to index.js.
 
 const CONTRIBUTE_URL = 'https://github.com/mrkacan/mrkacan.me';
 
@@ -316,6 +325,35 @@ const userSkillsData = [
     ],
   },
 ];
+
+const userSocialAccounts = {
+  github: {
+    id: 1,
+    url: 'github.com/mrkacan',
+    Icon: GITHUB,
+  },
+  linkedIn: {
+    id: 2,
+    url: 'linkedin.com/in/mrkacan',
+    Icon: LINKEDIN,
+  },
+  gmail: {
+    id: 3,
+    url: 'mailto:emrekacan@gmail.com',
+    Icon: GMAIL,
+  },
+  facebook: {
+    id: 4,
+    url: null,
+    Icon: FACEBOOK,
+  },
+  twitter: {
+    id: 5,
+    url: null,
+    Icon: TWITTER,
+  },
+};
+
 export {
   PAGES_DATA,
   experience,
@@ -329,4 +367,5 @@ export {
   userSkillsData,
   licenseData,
   CONTRIBUTE_URL,
+  userSocialAccounts,
 };

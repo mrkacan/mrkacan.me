@@ -1,6 +1,10 @@
-# Emre Kaçan Portfolio
+# mrkacan.me Portfolio
+
+[Demo](http://www.mrkacan.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Feel free to contribute or using!
+
 
 ### Completed & Used
 
@@ -23,5 +27,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] tabIndex attributes for screen readers.
 - [ ] Transform react-if to jsx-control-statements.
 - [ ] Complete Accomplishments and Download CV.
+- [ ] Complete social tab.
+- [ ] Add eslint and prettier rule for classNames.
+- [ ] Adjust webData and change name of this.
 
+---
 
+###### For questions: emrekacan@gmail.com️
+
+###### Made with React & ❤
