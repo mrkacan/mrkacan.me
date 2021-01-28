@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/mrkacan.me/static/css/main.dad823ee.chunk.css",
-    "main.js": "/mrkacan.me/static/js/main.5ea6f06b.chunk.js",
-    "main.js.map": "/mrkacan.me/static/js/main.5ea6f06b.chunk.js.map",
+    "main.css": "/mrkacan.me/static/css/main.c13d2ad3.chunk.css",
+    "main.js": "/mrkacan.me/static/js/main.7d387f34.chunk.js",
+    "main.js.map": "/mrkacan.me/static/js/main.7d387f34.chunk.js.map",
     "runtime-main.js": "/mrkacan.me/static/js/runtime-main.715cd691.js",
     "runtime-main.js.map": "/mrkacan.me/static/js/runtime-main.715cd691.js.map",
-    "static/js/2.7b454bb6.chunk.js": "/mrkacan.me/static/js/2.7b454bb6.chunk.js",
-    "static/js/2.7b454bb6.chunk.js.map": "/mrkacan.me/static/js/2.7b454bb6.chunk.js.map",
+    "static/js/2.09d62c7c.chunk.js": "/mrkacan.me/static/js/2.09d62c7c.chunk.js",
+    "static/js/2.09d62c7c.chunk.js.map": "/mrkacan.me/static/js/2.09d62c7c.chunk.js.map",
     "index.html": "/mrkacan.me/index.html",
-    "static/css/main.dad823ee.chunk.css.map": "/mrkacan.me/static/css/main.dad823ee.chunk.css.map",
-    "static/js/2.7b454bb6.chunk.js.LICENSE.txt": "/mrkacan.me/static/js/2.7b454bb6.chunk.js.LICENSE.txt",
+    "static/css/main.c13d2ad3.chunk.css.map": "/mrkacan.me/static/css/main.c13d2ad3.chunk.css.map",
+    "static/js/2.09d62c7c.chunk.js.LICENSE.txt": "/mrkacan.me/static/js/2.09d62c7c.chunk.js.LICENSE.txt",
     "static/media/cboxprojects.23110684.png": "/mrkacan.me/static/media/cboxprojects.23110684.png",
-    "static/media/celalbayarUniversity.229112f2.png": "/mrkacan.me/static/media/celalbayarUniversity.229112f2.png"
+    "static/media/celalbayarUniversity.229112f2.png": "/mrkacan.me/static/media/celalbayarUniversity.229112f2.png",
+    "static/media/facebook.f40a4c76.svg": "/mrkacan.me/static/media/facebook.f40a4c76.svg",
+    "static/media/github.42fc076a.svg": "/mrkacan.me/static/media/github.42fc076a.svg",
+    "static/media/gmail.9fcadc76.svg": "/mrkacan.me/static/media/gmail.9fcadc76.svg",
+    "static/media/imagePlaceholder.74e5da71.jpg": "/mrkacan.me/static/media/imagePlaceholder.74e5da71.jpg",
+    "static/media/linkedin.a4696527.svg": "/mrkacan.me/static/media/linkedin.a4696527.svg",
+    "static/media/twitter.f075443e.svg": "/mrkacan.me/static/media/twitter.f075443e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.715cd691.js",
-    "static/js/2.7b454bb6.chunk.js",
-    "static/css/main.dad823ee.chunk.css",
-    "static/js/main.5ea6f06b.chunk.js"
+    "static/js/2.09d62c7c.chunk.js",
+    "static/css/main.c13d2ad3.chunk.css",
+    "static/js/main.7d387f34.chunk.js"
   ]
 }
